@@ -1,0 +1,42 @@
+.about-banner{
+    background-image: url(images/about-banner.png);
+    height: 500px;
+    margin-bottom: 80px;
+}
+
+.description h3{
+    font-size: 60px;
+    font-weight: 400;
+    margin-top: 115px;
+}
+
+.display-image{
+    margin-top: 100px;
+}
+
+.fresh-food{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 70px;
+    padding-left: 100px;
+}
+
+.we-serve{
+    margin-bottom: 110px;
+}
+
+.we-serve h3{
+    font-size: 22px;
+    color: #1F1F1F;
+    width: 50%;
+    line-height: 32px;
+    font-weight: 500;
+}
+
+.we-serve p{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #4D4D4D;
+    width: 77%;
+}
